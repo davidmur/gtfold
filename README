@@ -109,5 +109,6 @@ Version History:
 1.15 18 May 2010  Fixed a nasty bug with reading constraints by increasing the length of string to 100 that reads the lines from sontraints file.
 1.16 20 May 2010  Fixed another nasty bug with prohibited constraints handling.
             Earlier not used to update the WM array if a base pair is prohibited which is causing GTfold to trace partial structure.
-            Some documentation added.
+            Some documentation added. 
+Checking admin status.
                     
